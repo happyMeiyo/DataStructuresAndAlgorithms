@@ -1,8 +1,7 @@
 # DataStructuresAndAlgorithms
 学习《极客时间》王争的《数据结构与算法》的代码记录
 
-# DataStructuresAndAlgorithms
-学习《极客时间》王争的《数据结构与算法》的代码记录
+
 
 #### Git全局设置
 ```shell
